@@ -11,4 +11,4 @@ Using PlatfromIO (Arduino frameworks) and YoloUNO (ESP32-S3) to completed these 
 * Task 5: TinyML Deployment & Accuracy Evaluation
 * Task 6: Data Publishing to CoreIOT Cloud Server
 
-More details: 
+More details: https://github.com/NguyenHieu267/IOT_Assignment/blob/main/IOTProject.pdf
